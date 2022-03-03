@@ -1,0 +1,54 @@
+{
+    "unidades": [
+        {
+            "placas": "AWL-14-35",
+            "auto": "Volkswagen Bora Sportwagen 2014",
+            "block": false,
+            "microfono": false,
+            "ruta": true,
+            "image": "assets/icon-car.png"
+        },
+        {
+            "placas": "XLN-91-27",
+            "auto": "Camión FORD E45O caja seca 16 pies",
+            "block": false,
+            "microfono": false,
+            "ruta": true,
+            "image": "assets/icon-truck.png"
+        },
+        {
+            "placas": "WST-55-96",
+            "auto": "Volkswagen Bora Sportwagen 2014",
+            "block": false,
+            "microfono": false,
+            "ruta": true,
+            "image": "assets/icon-car.png"
+        },
+        {
+            "placas": "MUG-10-13",
+            "auto": "Camión FORD E45O caja seca 16 pies",
+            "block": false,
+            "microfono": false,
+            "ruta": true,
+            "image": "assets/icon-truck.png"
+        },
+        {
+            "placas": "SKJ-62-36",
+            "auto": "Volkswagen Bora Sportwagen 2014",
+            "block": false,
+            "microfono": false,
+            "ruta": true,
+            "image": "assets/icon-car.png"
+        },
+        {
+            "placas": "GLA-02-75",
+            "auto": "Camión FORD E45O caja seca 16 pies",
+            "block": false,
+            "microfono": false,
+            "ruta": true,
+            "image": "assets/icon-truck.png"
+        }
+
+
+    ]
+}
